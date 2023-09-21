@@ -7,8 +7,8 @@
 - I love empower myself by learn, so always i try to learn something new 😸
 <br>
 
-### Programming languages i use
-<br>
+## Programming languages i use
+
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-hola?style=for-the-badge&logo=JavaScript&color=%23f72585)
 <br>
