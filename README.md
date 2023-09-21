@@ -26,4 +26,4 @@
 
 ### 📫 Reach me out
 
-![Static Badge](https://img.shields.io/badge/Twitter-username?style=for-the-badge&logo=twitter&color=%233a0ca3)  [SiEsSaul](x.com/SiEsSaul)
+![Static Badge](https://img.shields.io/badge/Twitter-username?style=for-the-badge&logo=twitter&color=%233a0ca3)  [@SiEsSaul](https://x.com/SiEsSaul)
