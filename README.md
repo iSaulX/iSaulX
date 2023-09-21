@@ -22,8 +22,20 @@
 <br>
 ![Static Badge](https://img.shields.io/badge/java-programming?style=for-the-badge&logo=java&color=%23613dc1)
 <br>
-![Static Badge](https://img.shields.io/badge/Ruby-programming?style=for-the-badge&logo=Ruby&color=%23f72585)
+![Static Badge](https://img.shields.io/badge/Ruby-programming?style=for-the-badge&logo=Ruby&color=%23f72585)+
 
-### 📫 Reach me out
+
+## Certifications 
+<a href="https://www.credly.com/earner/earned/badge/6bfa884a-6f8a-418f-ae41-626936a1b965"><img src="https://images.credly.com/size/200x200/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure AI Fundamentals"></a>
+<a href="https://www.credly.com/badges/0bf67764-85c0-45dd-a240-09cbe4be4a44"><img src="https://images.credly.com/size/200x200/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals"></a>
+<a href="https://www.credly.com/badges/e7996b85-06bb-4ba4-8121-2f3a334c1dc8"><img src="https://images.credly.com/size/200x200/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Azure Data Fundamentals"></a>
+<a href="https://www.credly.com/badges/3539ba66-de9a-4ebf-aaea-dfee2ca70f1a"><img src="https://images.credly.com/size/200x200/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt="Microsoft Security, Compliance and Identity Fundamentals"></a>
+<a href="https://www.credly.com/badges/ad3be49c-4efb-4ce1-9a35-fcd7cfe98043"><img src="https://images.credly.com/size/200x200/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" alt="Microsoft 365 Fundamentals"></a>
+<a href="https://www.credly.com/badges/46cbeadb-cb4d-441a-98a9-1750a3729e3b"><img src="https://images.credly.com/size/200x200/images/d62dcf8f-1ad4-42d4-9a07-1c59e2d5d9e9/image.png" alt="Azure Space"></a>
+
+<br>
+
+
+## 📫 Reach me out
 
 ![Static Badge](https://img.shields.io/badge/Twitter-username?style=for-the-badge&logo=twitter&color=%233a0ca3)  [@SiEsSaul](https://twitter.com/SiEsSaul)
