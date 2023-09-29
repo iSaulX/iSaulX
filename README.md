@@ -24,7 +24,7 @@
 <br>
 ![Static Badge](https://img.shields.io/badge/java-programming?style=for-the-badge&logo=java&color=%23613dc1)
 <br>
-![Static Badge](https://img.shields.io/badge/Ruby-programming?style=for-the-badge&logo=Ruby&color=%23f72585)+
+![Static Badge](https://img.shields.io/badge/Ruby-programming?style=for-the-badge&logo=Ruby&color=%23f72585)
 
 
 ## Certifications 
@@ -33,6 +33,7 @@
 <a href="https://www.credly.com/badges/e7996b85-06bb-4ba4-8121-2f3a334c1dc8"><img src="https://images.credly.com/size/200x200/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Azure Data Fundamentals"></a>
 <a href="https://www.credly.com/badges/3539ba66-de9a-4ebf-aaea-dfee2ca70f1a"><img src="https://images.credly.com/size/200x200/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt="Microsoft Security, Compliance and Identity Fundamentals"></a>
 <a href="https://www.credly.com/badges/ad3be49c-4efb-4ce1-9a35-fcd7cfe98043"><img src="https://images.credly.com/size/200x200/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" alt="Microsoft 365 Fundamentals"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/es-es/iSaulZ/301E985F577076C5?sharingId=A2C92FD337C5FA1C"><img src="https://learn.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="205px" width="205px" alt="Azure Administrator"></a>
 <a href="https://www.credly.com/badges/46cbeadb-cb4d-441a-98a9-1750a3729e3b"><img src="https://images.credly.com/size/200x200/images/d62dcf8f-1ad4-42d4-9a07-1c59e2d5d9e9/image.png" alt="Azure Space"></a>
 
 <br>
