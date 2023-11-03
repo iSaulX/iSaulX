@@ -35,6 +35,7 @@
 <a href="https://www.credly.com/badges/ad3be49c-4efb-4ce1-9a35-fcd7cfe98043"><img src="https://images.credly.com/size/200x200/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" alt="Microsoft 365 Fundamentals"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/es-es/iSaulZ/301E985F577076C5?sharingId=A2C92FD337C5FA1C"><img src="https://learn.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="205px" width="205px" alt="Azure Administrator"></a>
 <a href="https://www.credly.com/badges/46cbeadb-cb4d-441a-98a9-1750a3729e3b"><img src="https://images.credly.com/size/200x200/images/d62dcf8f-1ad4-42d4-9a07-1c59e2d5d9e9/image.png" alt="Azure Space"></a>
+<a href="https://www.credly.com/badges/e037ae7b-1dd0-4e45-8b6c-a0dc87d1de4a/public_url"><img src="https://images.credly.com/size/200x200/images/015364a4-c68c-4c42-8060-3553118f2ff0/image.png"></a>
 
 <br>
 
