@@ -1,4 +1,4 @@
-<h1 align="center">Hey! <img src="./images/Hi.gif" alt="Waving Hand" height="30">, I'm Saul </h1>
+<h1 align="center">Hey! <img src="./images/Hi.gif" alt="Waving Hand" width="30px">, I'm Saul </h1>
 
 Full Stack Developer at day, Data Scientist at night, and a lifelong learner in between.
 
